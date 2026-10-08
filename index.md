@@ -1,3 +1,9 @@
+<style>
+h1:first-of-type {
+  display: none;
+}
+</style>
+
 <div style="background-color:#faf7ef; background-image:radial-gradient(#e8e0d2 0.7px, transparent 0.7px); background-size:7px 7px; padding:32px; border-radius:18px; margin-bottom:45px; color:#1c2935;">
 
 <div style="display:flex; justify-content:space-between; align-items:center; gap:20px; flex-wrap:wrap; margin-bottom:65px;">
@@ -90,7 +96,7 @@ Now, I'm excited to begin a new chapter in <strong>Berlin, Germany.</strong>
 <div style="flex:1 1 200px; min-width:0; position:relative; background:#fffdf8; padding:10px 10px 16px; box-shadow:0 7px 16px #1c29351a;">
 <div style="position:absolute; top:-10px; left:40%; width:58px; height:20px; background:#f7ce49b3; transform:rotate(-3deg);"></div>
 <img src="images/jiu-jitsu.jpg" alt="Jiu-Jitsu" width="230" style="display:block; width:100%; height:300px; object-fit:contain; background:#f0eadd;">
-<p style="font-family:Georgia,serif; font-size:18px; font-weight:bold; font-style:italic; text-align:center; margin:14px 0 0;">Jiu-Jitsu</p>
+<p style="font-family:Georgia,serif; font-size:18px; font-weight:bold; font-style:italic; text-align:center; margin:14px 0 0;">Brazilian Jiu-Jitsu</p>
 </div>
 
 <div style="flex:1 1 200px; min-width:0; position:relative; background:#fffdf8; padding:10px 10px 16px; box-shadow:0 7px 16px #1c29351a;">
