@@ -2,6 +2,14 @@
 h1:first-of-type {
   display: none;
 }
+h1 .anchor,
+h2 .anchor,
+h3 .anchor,
+h4 .anchor,
+h5 .anchor,
+h6 .anchor {
+  display: none !important;
+}
 </style>
 
 <div style="background-color:#faf7ef; background-image:radial-gradient(#e8e0d2 0.7px, transparent 0.7px); background-size:7px 7px; padding:32px; border-radius:18px; margin-bottom:45px; color:#1c2935;">
