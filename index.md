@@ -23,7 +23,17 @@ h6 .anchor {
 
 <div style="flex:1 1 360px; min-width:0;">
 <p style="color:#d96e48; font-size:12px; font-weight:bold; letter-spacing:3px; margin:0 0 14px;">CHAPTER 1</p>
-<h2 style="font-family:Georgia,serif; font-size:clamp(48px,6vw,76px); line-height:1.05; letter-spacing:-2px; border:0; padding:0; margin:0;">About Me</h2>
+<div style="
+  font-family:Georgia,serif;
+  font-size:clamp(48px,6vw,76px);
+  line-height:1.05;
+  letter-spacing:-2px;
+  font-weight:bold;
+  margin:0;
+  display:block;
+">
+About Me
+</div>
 <div style="width:60px; height:8px; background:#f7ce49; border-radius:8px; margin:20px 0 28px; transform:rotate(-2deg);"></div>
 <p style="font-size:17px; line-height:1.85; margin:0 0 22px;">Hi, I'm Laila! I'm 24 years old and originally from Brazil. I'm a Production Engineering graduate and currently a master's student in <strong>Business Intelligence and Process Management at HWR Berlin</strong>.</p>
 <p style="font-size:17px; line-height:1.85; margin:0;">I'm excited to learn new things, meet my classmates, and share this experience with people from different backgrounds. It's lovely to meet you!</p>
@@ -43,7 +53,17 @@ h6 .anchor {
 </div><div style="background-color:#faf7ef; background-image:radial-gradient(#e8e0d2 0.7px, transparent 0.7px); background-size:7px 7px; padding:32px; border-radius:18px; margin-bottom:45px; color:#1c2935;">
 
 <p style="color:#d96e48; font-size:12px; font-weight:bold; letter-spacing:3px; margin:0 0 14px;">CHAPTER 2</p>
-<h2 style="font-family:Georgia,serif; font-size:clamp(38px,5vw,64px); line-height:1.1; letter-spacing:-2px; border:0; padding:0; margin:0;">Born and Raised</h2>
+<div style="
+  font-family:Georgia,serif;
+  font-size:clamp(38px,5vw,64px);
+  line-height:1.1;
+  letter-spacing:-2px;
+  font-weight:bold;
+  margin:0;
+  display:block;
+">
+Born and Raised
+</div>
 <div style="width:60px; height:8px; background:#f7ce49; border-radius:8px; margin:20px 0 28px; transform:rotate(-2deg);"></div>
 
 <div style="display:flex; flex-wrap:wrap; gap:32px; margin-bottom:42px;">
@@ -91,7 +111,17 @@ Now, I'm excited to begin a new chapter in <strong>Berlin, Germany.</strong>
 <div style="background-color:#faf7ef; background-image:radial-gradient(#e8e0d2 0.7px, transparent 0.7px); background-size:7px 7px; padding:32px; border-radius:18px; margin-bottom:45px; color:#1c2935;">
 
 <p style="color:#d96e48; font-size:12px; font-weight:bold; letter-spacing:3px; margin:0 0 14px;">CHAPTER 3</p>
-<h2 style="font-family:Georgia,serif; font-size:clamp(38px,5vw,64px); line-height:1.1; letter-spacing:-2px; border:0; padding:0; margin:0;">Hobbies</h2>
+<div style="
+  font-family:Georgia,serif;
+  font-size:clamp(38px,5vw,64px);
+  line-height:1.1;
+  letter-spacing:-2px;
+  font-weight:bold;
+  margin:0;
+  display:block;
+">
+Hobbies
+</div>
 <div style="width:60px; height:8px; background:#f7ce49; border-radius:8px; margin:20px 0 28px; transform:rotate(-2deg);"></div>
 
 <div style="display:flex; flex-wrap:wrap; gap:32px; margin-bottom:40px;">
@@ -104,7 +134,7 @@ Now, I'm excited to begin a new chapter in <strong>Berlin, Germany.</strong>
 <div style="flex:1 1 200px; min-width:0; position:relative; background:#fffdf8; padding:10px 10px 16px; box-shadow:0 7px 16px #1c29351a;">
 <div style="position:absolute; top:-10px; left:40%; width:58px; height:20px; background:#f7ce49b3; transform:rotate(-3deg);"></div>
 <img src="images/jiu-jitsu.jpg" alt="Jiu-Jitsu" width="230" style="display:block; width:100%; height:300px; object-fit:contain; background:#f0eadd;">
-<p style="font-family:Georgia,serif; font-size:18px; font-weight:bold; font-style:italic; text-align:center; margin:14px 0 0;">Brazilian Jiu-Jitsu</p>
+<p style="font-family:Georgia,serif; font-size:18px; font-weight:bold; font-style:italic; text-align:center; margin:14px 0 0;">Jiu-Jitsu</p>
 </div>
 
 <div style="flex:1 1 200px; min-width:0; position:relative; background:#fffdf8; padding:10px 10px 16px; box-shadow:0 7px 16px #1c29351a;">
@@ -138,7 +168,17 @@ Now, I'm excited to begin a new chapter in <strong>Berlin, Germany.</strong>
 
 <p style="color:#d96e48; font-size:12px; font-weight:bold; letter-spacing:3px; margin:0 0 14px;">CHAPTER 4</p>
 
-<h2 style="font-family:Georgia,serif; font-size:clamp(38px,5vw,64px); line-height:1.1; letter-spacing:-2px; border:0; padding:0; margin:0;">Academic Journey</h2>
+<div style="
+  font-family:Georgia,serif;
+  font-size:clamp(38px,5vw,64px);
+  line-height:1.1;
+  letter-spacing:-2px;
+  font-weight:bold;
+  margin:0;
+  display:block;
+">
+Academic Journey
+</div>
 
 <div style="width:60px; height:8px; background:#f7ce49; border-radius:8px; margin:20px 0 28px; transform:rotate(-2deg);"></div>
 
@@ -154,7 +194,16 @@ Alongside my studies, I worked as a <strong>C++ programming tutor</strong> and r
 
 </div>
 
-<h3 style="font-family:Georgia,serif; font-size:28px; margin:0 0 20px;">🎓 Stops Along the Way</h3>
+<div style="
+  font-family:Georgia,serif;
+  font-size:28px;
+  line-height:1.2;
+  font-weight:bold;
+  margin:0 0 20px;
+  display:block;
+">
+🎓 Stops Along the Way
+</div>
 
 <div style="overflow-x:auto; border-radius:8px; box-shadow:0 7px 16px #1c29351a; margin-bottom:32px;">
 
@@ -246,7 +295,17 @@ My master's at HWR is the next step in connecting my experience with data and au
 
 <p style="color:#d96e48; font-size:12px; font-weight:bold; letter-spacing:3px; margin:0 0 14px;">CHAPTER 5</p>
 
-<h2 style="font-family:Georgia,serif; font-size:clamp(38px,5vw,64px); line-height:1.1; letter-spacing:-2px; border:0; padding:0; margin:0;">Professional Experience</h2>
+<div style="
+  font-family:Georgia,serif;
+  font-size:clamp(38px,5vw,64px);
+  line-height:1.1;
+  letter-spacing:-2px;
+  font-weight:bold;
+  margin:0;
+  display:block;
+">
+Professional Experience
+</div>
 
 <div style="width:60px; height:8px; background:#f7ce49; border-radius:8px; margin:20px 0 36px; transform:rotate(-2deg);"></div>
 
@@ -291,7 +350,16 @@ I left the company for my exchange semester in Canada and returned as a <strong>
 
 <!-- CAREER JOURNEY -->
 
-<h3 style="font-family:Georgia,serif; font-size:28px; margin:0 0 30px;">My Career Journey</h3>
+<div style="
+  font-family:Georgia,serif;
+  font-size:28px;
+  line-height:1.2;
+  font-weight:bold;
+  margin:0 0 30px;
+  display:block;
+">
+My Career Journey
+</div>
 
 
 <!-- CAREER STEPS -->
