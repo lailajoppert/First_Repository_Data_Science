@@ -1,5 +1,5 @@
 <style>
-.markdown-body > h1:first-child {
+.markdown-body > h1:first-of-type {
   display: none;
 }
 </style>
