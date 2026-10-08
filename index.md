@@ -1,3 +1,9 @@
+<style>
+.markdown-body > h1:first-child {
+  display: none;
+}
+</style>
+
 [LinkedIn](https://www.linkedin.com/in/laila-ewald-joppert-b43288243/)
 
 # Laila Ewald Joppert's Story
