@@ -2,75 +2,23 @@
 .markdown-body > h1:first-of-type {
   display: none;
 }
-.intro-links {
-  display: flex;
-  justify-content: flex-end;
-  margin-bottom: 32px;
-}
-.intro-layout {
-  display: grid;
-  grid-template-columns: 1fr 1.35fr 1fr;
-  align-items: center;
-  gap: 30px;
-  margin-bottom: 50px;
-}
-.intro-layout > * {
-  min-width: 0;
-}
-.markdown-body .intro-title {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 48px;
-  line-height: 1.12;
-  font-weight: 800;
-  letter-spacing: -1.5px;
-}
-.markdown-body .intro-about h2 {
-  margin: 0 0 16px;
-  padding: 0;
-  border: 0;
-  font-size: 28px;
-}
-.intro-about p {
-  font-size: 16px;
-  line-height: 1.65;
-}
-.markdown-body .intro-photo {
-  display: block;
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-  margin-left: auto;
-  border-radius: 16px;
-}
-@media (max-width: 800px) {
-  .intro-layout {
-    grid-template-columns: 1fr;
-    gap: 24px;
-  }
-  .markdown-body .intro-title {
-    font-size: 42px;
-  }
-  .markdown-body .intro-photo {
-    margin-left: 0;
-  }
-}
 </style>
 
-<div class="intro-links">
-<a href="https://www.linkedin.com/in/laila-ewald-joppert-b43288243/">LinkedIn ↗</a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/laila-ewald-joppert-b43288243/)
 
-<div class="intro-layout">
-<h1 class="intro-title">Laila<br>Ewald Joppert’s<br>Story</h1>
-<div class="intro-about">
-<h2>About Me</h2>
-<p>Hi, I'm Laila! I'm 24 years old and originally from Brazil. I'm a Production Engineering graduate and currently a master's student in <strong>Business Intelligence and Process Management at HWR Berlin</strong>.</p>
-<p>I'm excited to learn new things, meet my classmates, and share this experience with people from different backgrounds. It's lovely to meet you!</p>
-</div>
-<img class="intro-photo" src="images/myself.jpg" alt="Laila" width="300">
-</div>
+# Laila Ewald Joppert's Story
+
+## About Me
+
+Hi, I'm Laila! I'm 24 years old and originally from Brazil.
+I'm a Production Engineering graduate and currently a master's
+student in **Business Intelligence and Process Management at HWR Berlin**.
+
+I'm excited to learn new things, meet my classmates, and share
+this experience with people from different backgrounds.
+It's lovely to meet you!
+
+<img src="images/myself.jpg" alt="Laila" width="300">	
 
 ## Born and Raised
 
